@@ -1,2 +1,2 @@
 # Email-Validator
-A Email Validator Completely In Pyhthon 3
+A Email Validator Completely In Python 3
