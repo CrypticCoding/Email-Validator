@@ -20,16 +20,13 @@ python3 Starter.py
 
 **Loading**
 
-
 click on `load` button select your `.txt` file.
 
 **Checking**
 
-
 click on `check` button. it will give you if your emails are valid or not.
 
 **Saving**
-
 
 there is two buttons. one `Export Working Emails` and `Export Non-Working Emails`.
 those are self explainatory what they do
