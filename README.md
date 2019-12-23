@@ -1,5 +1,5 @@
 # Email-Validator
-A Email Validator Completely In Python 3
+A Email Validator Completely In Python 3.
 
 
 
@@ -13,6 +13,7 @@ A Email Validator Completely In Python 3
 ```
 git clone https://github.com/CrypticCoding/Email-Validator
 cd Email-Validator
+python3 -m pip install -r requirements.txt
 python3 Starter.py
 ```
 
