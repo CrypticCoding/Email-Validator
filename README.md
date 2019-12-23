@@ -4,9 +4,34 @@ A Email Validator Completely In Python 3
 
 
 
-Firstly this is a simple email validator in python.
-
-
 # How To Install:
 
-Simplly Download It Or Clone It. Then Open `requirements.bat` file. after installation, double click on the starter.py file. once you are in the GUI, load the email list. after that click on check. any invalid email will have a ..invalid next to them
+1) Download Git (If You Haven't)
+2) Download Python (Same)
+3) open cmd/console 
+4) type the following code!
+```batch
+git clone https://github.com/CrypticCoding/Email-Validator
+cd Email-Validator
+python3 Starter.py
+```
+
+# How To Use
+
+**Loading**
+click on `load` button select your `.txt` file.
+
+**Checking**
+click on `check` button. it will give you if your emails are valid or not.
+
+**Saving**
+there is two buttons. one `Export Working Emails` and `Export Non-Working Emails`.
+those are self explainatory what they do
+
+
+
+
+
+
+
+
