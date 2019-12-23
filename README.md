@@ -10,7 +10,7 @@ A Email Validator Completely In Python 3
 2) Download Python (Same)
 3) open cmd/console 
 4) type the following code!
-```batch
+```
 git clone https://github.com/CrypticCoding/Email-Validator
 cd Email-Validator
 python3 Starter.py
