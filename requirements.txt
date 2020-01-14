@@ -1,1 +1,2 @@
 quickemailverification
+pyqt5
